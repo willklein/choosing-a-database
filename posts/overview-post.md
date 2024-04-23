@@ -31,11 +31,17 @@ How do we choose a database for personal projects? I'll walk through some popula
 
 ### Providers
 
-- Firebase
-- Supabase
-- Turso
-- Xata
-- DrizzleORM
+- [Firebase](https://firebase.google.com/)
+- [Supabase](https://supabase.com/)
+- [Turso](https://turso.tech/)
+- [Xata](https://xata.io/)
+- [Prisma](https://www.prisma.io/)
+
+### ORMS
+
+- [Knex.js](https://knexjs.org/)
+- [Prisma](https://www.prisma.io/)
+- [DrizzleORM](https://orm.drizzle.team/)
 
 ## How I choose
 
@@ -49,10 +55,16 @@ How do we choose a database for personal projects? I'll walk through some popula
 - something others will use
 - seems relational
 
-
 ## Goals
 - learning new things
 - building skills
 - ease of use
 - flexibility
 - cost
+
+## Try stuff
+
+- building out the schema
+- do a simple query/output of data
+- read the docs
+- checkout the community
