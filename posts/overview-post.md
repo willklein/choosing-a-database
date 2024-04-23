@@ -15,15 +15,33 @@ How do we choose a database for personal projects? I'll walk through some popula
 - Microsoft SQL Server
 - MongoDB
 - Oracle 😬
-- MySQL again!
+- Firebase 🔥
+- MySQL again! w/ [Knex.js](https://knexjs.org/)
 - Supabase
+- JSON files
 
 ## What I've heard about
 
+### Databases
+
+- MongoDB
+- IndexedDB
+- SQLite
+- PostgreSQL
+
+### Providers
+
+- Firebase
 - Supabase
 - Turso
-- IndexedDB
+- Xata
 - DrizzleORM
+
+## How I choose
+
+- relational vs document model
+- ORM or not
+- goals
 
 ## What I'm building
 
@@ -31,8 +49,10 @@ How do we choose a database for personal projects? I'll walk through some popula
 - something others will use
 - seems relational
 
-## How I choose
 
-- relational vs document model
-- ORM or not
-- goals
+## Goals
+- learning new things
+- building skills
+- ease of use
+- flexibility
+- cost
