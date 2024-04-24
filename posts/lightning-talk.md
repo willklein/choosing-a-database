@@ -67,7 +67,6 @@ who has:
 
 ### ORMS
 
-- [Knex.js](https://knexjs.org/)
 - [Prisma](https://www.prisma.io/)
 - [DrizzleORM](https://orm.drizzle.team/)
 
