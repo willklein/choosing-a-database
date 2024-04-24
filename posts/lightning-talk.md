@@ -56,6 +56,7 @@ who has:
 ### Providers
 
 - [Firebase](https://firebase.google.com/)
+- [MongoDB Atlas](https://www.mongodb.com/atlas)
 - [Planetscale](https://planetscale.com/)
 - [Supabase](https://supabase.com/)
 - [Turso](https://turso.tech/)
