@@ -9,6 +9,16 @@ tags:
 
 How do we choose a database for personal projects? I'll walk through some popular options,  how I approach evaluating them, and how I get started building out the schema so I can start building as quickly as possible.
 
+Author: [Will Klein](https://www.willklein.co/)
+
+## Questions
+
+who has:
+- picked a database solution?
+- written database queries?
+- defined a database schema?
+- wanted this to be "easy?"
+
 ## What I've used
 
 - MySQL
@@ -19,6 +29,14 @@ How do we choose a database for personal projects? I'll walk through some popula
 - MySQL again! w/ [Knex.js](https://knexjs.org/)
 - Supabase
 - JSON files
+
+## Considerations
+
+- what underlying database?
+- what provider do I go with?
+- am I writing queries?
+- do I use an object-relational mapping tool aka ORM?
+- relational vs document model?
 
 ## What I've heard about
 
@@ -43,22 +61,16 @@ How do we choose a database for personal projects? I'll walk through some popula
 - [Prisma](https://www.prisma.io/)
 - [DrizzleORM](https://orm.drizzle.team/)
 
-## How I choose
+## What are my goals
 
-- relational vs document model
-- ORM or not
-- goals
-
-## What I'm building
-
-- something for myself
-- something others will use
-- seems relational
-
-## Goals
 - learning new things
 - building skills
-- ease of use
+- shipping stuff
+
+## What else matters
+
+- the docs
+- community around the tech
 - flexibility
 - cost
 
