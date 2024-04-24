@@ -13,6 +13,11 @@ Author: [Will Klein](https://www.willklein.co/)
 
 ## Questions
 
+who is:
+- full-stack (at least 20% of front or backend)
+- front-end
+- back-end
+
 who has:
 - picked a database solution?
 - written database queries?
