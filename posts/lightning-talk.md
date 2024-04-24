@@ -56,6 +56,7 @@ who has:
 ### Providers
 
 - [Firebase](https://firebase.google.com/)
+- [Planetscale](https://planetscale.com/)
 - [Supabase](https://supabase.com/)
 - [Turso](https://turso.tech/)
 - [Xata](https://xata.io/)
