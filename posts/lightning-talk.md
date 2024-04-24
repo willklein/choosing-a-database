@@ -7,7 +7,7 @@ tags:
 
 # Choosing a database
 
-How do we choose a database for personal projects? I'll walk through some popular options,  how I approach evaluating them, and how I get started building out the schema so I can start building as quickly as possible.
+How do we choose a database for personal projects? I'll walk through some popular options, how I approach evaluating them, and how I make a decision I can live with.
 
 Author: [Will Klein](https://www.willklein.co/)
 
