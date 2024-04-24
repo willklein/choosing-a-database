@@ -31,7 +31,7 @@ who has:
 - MongoDB
 - Oracle 😬
 - Firebase 🔥
-- MySQL again! w/ [Knex.js](https://knexjs.org/)
+- MySQL again! w/ [Knex.js](https://knexjs.org/) & [Bookshelf.js](https://bookshelfjs.org/)
 - Supabase
 - JSON files
 
