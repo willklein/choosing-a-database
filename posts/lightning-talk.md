@@ -42,6 +42,8 @@ who has:
 - am I writing queries?
 - do I use an object-relational mapping tool aka ORM?
 - relational vs document model?
+- realtime capabilities?
+- extras: authorization, authentication, file storage...
 - what's a [vector database](https://www.cloudflare.com/learning/ai/what-is-vector-database/)?
 
 ## What I've heard about
