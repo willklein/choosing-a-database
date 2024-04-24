@@ -35,22 +35,23 @@ who has:
 - Supabase
 - JSON files
 
-## Considerations
+## Considerations when choosing a database
 
 - what underlying database?
 - what provider do I go with?
 - am I writing queries?
 - do I use an object-relational mapping tool aka ORM?
 - relational vs document model?
+- what's a [vector database](https://www.cloudflare.com/learning/ai/what-is-vector-database/)?
 
 ## What I've heard about
 
 ### Databases
 
-- MongoDB
-- IndexedDB
-- SQLite
-- PostgreSQL
+- [MongoDB](https://www.mongodb.com/)
+- [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- [SQLite](https://www.sqlite.org/)
+- [PostgreSQL](https://www.postgresql.org/)
 
 ### Providers
 
