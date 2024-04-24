@@ -22,7 +22,7 @@ who has:
 - picked a database solution?
 - written database queries?
 - defined a database schema?
-- wanted this to be "easy?"
+- done not much with databases but hopes to understand more?
 
 ## What I've used
 
